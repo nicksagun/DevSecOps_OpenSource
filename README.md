@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/AIID_KnoweldgeGraph/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ARLIS-OpenSource/DevSecOps_OSS?utm_source=badge&utm_medium=badge&utm_content=badge)
+
 Open Source Software Nutrition Labels
 ======
 
