@@ -1,0 +1,3 @@
+https://snyk.io/advisor/npm-package/lodash
+https://snyk.io/advisor/npm-package/@lineup-lite/components
+https://snyk.io/advisor/npm-package/bootstrap

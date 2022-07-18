@@ -1,0 +1,41 @@
+{
+    "lodash": [
+        "v4.17.21",
+        " NPM",
+        " MIT",
+        "Latest version published 1 year ago",
+        "80",
+        "133.47K",
+        "53.75K",
+        "6.56K",
+        "290",
+        "No",
+        "3"
+    ],
+    "@lineup-lite/components": [
+        "v1.7.0",
+        " NPM",
+        " MPL-2.0",
+        "Latest version published 1 month ago",
+        "69",
+        "0",
+        "13",
+        "1",
+        "1",
+        "Yes",
+        "1"
+    ],
+    "bootstrap": [
+        "v5.1.3",
+        " NPM",
+        " MIT",
+        "Latest version published 9 months ago",
+        "91",
+        "490",
+        "158.57K",
+        "76.94K",
+        "370",
+        "Yes",
+        "3"
+    ]
+}
